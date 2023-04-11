@@ -1,7 +1,4 @@
-# ARCHIVED
-
-This package and its code is no longer maintained.
-
+# chartjs
 
 A generated Dart API for [Chart.js](https://www.chartjs.org/)
 using [pkg/js](https://pub.dev/packages/js) and
