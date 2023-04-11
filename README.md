@@ -12,6 +12,3 @@ To understand usage, see the
 source code and the
 [corresponding output](https://google.github.io/chartjs.dart/).
 
-## Disclaimer
-
-This is not an official Google product.
