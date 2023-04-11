@@ -1,7 +1,7 @@
-name: chartjs
-version: 0.6.0
+name: chartjs2
+version: 2.0.0
 description: Chart.js wrapper for Dart
-homepage: https://github.com/google/chartjs.dart/
+homepage: https://github.com/insinfo/chartjs.dart
 environment:
   sdk: '>=2.12.0 <3.0.0'
 

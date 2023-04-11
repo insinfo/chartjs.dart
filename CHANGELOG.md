@@ -1,3 +1,7 @@
+## 2.0.0
+
+* fork from https://github.com/google/chartjs.dart
+
 ## 0.6.0
 
 * Migrated to null-safety

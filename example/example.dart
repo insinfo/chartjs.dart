@@ -5,7 +5,7 @@
 import 'dart:html';
 import 'dart:math' as math;
 
-import 'package:chartjs/chartjs.dart';
+import 'package:chartjs2/chartjs.dart';
 
 void main() {
   final rnd = math.Random();
